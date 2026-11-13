@@ -1,0 +1,5 @@
+Filename,Resolution,Total_Banana_Pixels,Green_Pixels,Green_Pct,Turning_Pixels,Turning_Pct,Yellow_Pixels,Yellow_Pct,Brown_Pixels,Brown_Pct,Predicted_Ripeness
+pisang_matang.jpg,960x1280,548875,641,0.12,13439,2.45,437920,79.79,96875,17.65,Matang (Ripe)
+pisang_mengkal.jpg,579x570,163902,4977,3.04,40663,24.81,99789,60.88,18473,11.27,Mengkal (Turning)
+pisang_mentah.jpeg,800x800,305643,220229,72.05,76404,25.0,7849,2.57,1161,0.38,Mentah (Unripe)
+pisang_terlalu_matang.jpeg,328x328,54109,0,0.0,0,0.0,0,0.0,54109,100.0,Terlalu Matang (Overripe)
