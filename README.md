@@ -1,5 +1,5 @@
 # Eksperimen HSV Color Segmentation & Ripeness Classification Pisang
-**Mata Kuliah: Pengolahan Citra Digital & Computer Vision**  
+**Mata Kuliah: Computer Vision**  
 **Kelompok 7**
 
 Repositori ini memuat implementasi lengkap penelitian dan eksperimen **HSV Color Segmentation** serta **Sistem Klasifikasi Tingkat Kematangan Buah Pisang** (*Musa paradisiaca*) berbasis bahasa pemrograman Python dan pustaka OpenCV. Metodologi yang diterapkan mengacu pada sintesis 10 artikel ilmiah bereputasi di bidang pemrosesan citra digital.
