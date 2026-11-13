@@ -51,7 +51,7 @@ Experimen/
 ## 2. Prasyarat & Dependensi Sistem
 
 Sistem telah diuji dan berjalan optimal pada lingkungan:
-* **Sistem Operasi:** Linux (Arch Linux / Ubuntu / Debian), macOS, atau Windows 10/11
+* **Sistem Operasi:** Linux (Arch Linux)
 * **Versi Python:** Python 3.10 ke atas (teruji pada Python 3.14.x)
 * **Pustaka Utama:**
   * `opencv-python` (>= 4.8.0 / 5.0.0)
